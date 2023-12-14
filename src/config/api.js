@@ -1,6 +1,7 @@
 
 import axios from 'axios';
-const LOCALHOST='http://localhost:5454'
+// 'http://localhost:5454'
+const LOCALHOST='https://bigbillion-server-production.up.railway.app'
 
 export const API_BASE_URL = LOCALHOST
 
